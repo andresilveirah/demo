@@ -1,10 +1,10 @@
 {
   "request": {
     "tcdata": {
-      "name": "a string",
-      "version": 1,
-      "dynamic1": "1",
-      "dynamic2": "2"
+      "tcf_name": "a string",
+      "tcf_version": 1,
+      "tcf_dynamic1": "1",
+      "tcf_dynamic2": "2"
     }
   }
 }
