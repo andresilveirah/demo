@@ -1,8 +1,10 @@
 {
   "tcdata": {
-    "name": "a string",
-    "version": 1,
-    "theTruth": false,
-    "double": 4.2
+    "tcdata": {
+      "name": "a string",
+      "version": 1,
+      "theTruth": false,
+      "double": 4.2
+    }
   }
 }
