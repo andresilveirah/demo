@@ -3,8 +3,8 @@
     "tcdata": {
       "name": "a string",
       "version": 1,
-      "theTruth": false,
-      "double": 4.2
+      "dynamic1": "1",
+      "dynamic2": "2"
     }
   }
 }
